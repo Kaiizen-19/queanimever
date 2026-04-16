@@ -1,4 +1,5 @@
 document.getElementById("app").innerHTML = `
-  <h1>🚀 Tu web ya funciona</h1>
-  <p>Ahora puedes construir encima de esto</p>
+  <h1>🎬 AnimeVer</h1>
+  <p>Bienvenido a mi web de anime</p>
+  <button>Ver animes</button>
 `;
