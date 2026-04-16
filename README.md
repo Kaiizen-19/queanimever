@@ -1,4 +1,4 @@
-echo "# queanimever.com" >> README.md 
+echo "# queanimever" >> README.md 
 git init 
 git add README.md 
 git commit -m "primer commit" 
